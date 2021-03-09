@@ -11,7 +11,7 @@ describe 'Validations' do
     @user.valid?
     expect(@user.errors).not_to include("can\'t be blank")
     end
-it 'should not create a User without a first name' do
+  it 'should not create a User without a first name' do
     @user = User.new(first_name: nil, last_name: "Doe", email:"janedoe@email.com", password: "ABC", password_confirmation:"ABC" )
     @user.valid?
     expect(@user.errors.messages[:first_name]).to include("can't be blank")
