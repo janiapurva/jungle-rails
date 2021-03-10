@@ -8,6 +8,7 @@ Implemented the following features for Jungle:
 - Admin Categories: Created restful routes to be able to create new categories within the admin namespace.
 - User Authentication: User is able to signup/login to Jungle where password is encrypted and email is       validated through uniqueness to ensure non existing user.
 - Enhanced Order Page: Order details shown with description, quantity and cart total upon successful payment.
+- Sale banner: Admin can Set sale for particular days and also display status of sale.
 
 # Home Page
 !["Home Page"](https://github.com/janiapurva/jungle-rails/blob/master/public/images/HomePage.png)
@@ -21,6 +22,9 @@ Implemented the following features for Jungle:
 !["Admin Dashboard Page"](https://github.com/janiapurva/jungle-rails/blob/master/public/images/AdminDashboard.png)
 # Admin Product Category
 !["Admin Product Category"](https://github.com/janiapurva/jungle-rails/blob/master/public/images/AdminProductCategory.png)
+# Sale Page
+!["Sale Page"]()
+
 
 ## Setup
 
