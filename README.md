@@ -4,17 +4,23 @@ A mini e-commerce application built with Rails 4.2. Learned how to navaigate exi
 
 Implemented the following features for Jungle:
 
-● Sold Out Badge: Implemented boolean function to display badge when inventory 0.
-● Admin Categories: Created restful routes to be able to create new categories within the admin namespace.
-● User Authentication: User is able to signup/login to Jungle where password is encrypted and email is       validated through uniqueness to ensure non existing user.
-● Enhanced Order Page: Order details shown with description, quantity and cart total upon successful payment.
+- Sold Out Badge: Implemented boolean function to display badge when inventory 0.
+- Admin Categories: Created restful routes to be able to create new categories within the admin namespace.
+- User Authentication: User is able to signup/login to Jungle where password is encrypted and email is       validated through uniqueness to ensure non existing user.
+- Enhanced Order Page: Order details shown with description, quantity and cart total upon successful payment.
 
-!["Home Page"](https://github.com/janiapurva/scheduler/blob/master/docs/Booked%20View.png)
-!["Product detail Page"](https://github.com/janiapurva/scheduler/blob/master/docs/Booked%20View.png)
-!["Product cart"](https://github.com/janiapurva/scheduler/blob/master/docs/Booked%20View.png)
-!["Admin Category"](https://github.com/janiapurva/scheduler/blob/master/docs/Booked%20View.png)
-!["Admin Dashboard Page"](https://github.com/janiapurva/scheduler/blob/master/docs/Booked%20View.png)
-!["Admin Product Category"](https://github.com/janiapurva/scheduler/blob/master/docs/Booked%20View.png)
+# Home Page
+!["Home Page"](https://github.com/janiapurva/jungle-rails/blob/master/public/images/HomePage.png)
+# Product Detail Page
+!["Product detail Page"](https://github.com/janiapurva/jungle-rails/blob/master/public/images/ProductDetailView.png)
+# Cart Page
+!["Product cart"](https://github.com/janiapurva/jungle-rails/blob/master/public/images/ProductInCart.png)
+# Admin Category Page
+!["Admin Category"](https://github.com/janiapurva/jungle-rails/blob/master/public/images/AdminCategory.png)
+# Admin Dashboard Page
+!["Admin Dashboard Page"](https://github.com/janiapurva/jungle-rails/blob/master/public/images/AdminDashboard.png)
+# Admin Product Category
+!["Admin Product Category"](https://github.com/janiapurva/jungle-rails/blob/master/public/images/AdminProductCategory.png)
 
 ## Setup
 
