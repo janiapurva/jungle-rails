@@ -23,7 +23,7 @@ Implemented the following features for Jungle:
 # Admin Product Category
 !["Admin Product Category"](https://github.com/janiapurva/jungle-rails/blob/master/public/images/AdminProductCategory.png)
 # Sale Page
-!["Sale Page"]()
+!["Sale Page"](https://github.com/janiapurva/jungle-rails/blob/master/public/images/Sale%20Page.png)
 
 
 ## Setup
