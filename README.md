@@ -1,7 +1,20 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 4.2. Learned how to navaigate existing code-bases and implement new features with an unfamiliar language. Applied previous research tactics to become familiar with new paradigms, language and frameworks. Able to implement features without thorough explanation. simulating real world situations.
 
+Implemented the following features for Jungle:
+
+● Sold Out Badge: Implemented boolean function to display badge when inventory 0.
+● Admin Categories: Created restful routes to be able to create new categories within the admin namespace.
+● User Authentication: User is able to signup/login to Jungle where password is encrypted and email is       validated through uniqueness to ensure non existing user.
+● Enhanced Order Page: Order details shown with description, quantity and cart total upon successful payment.
+
+!["Home Page"](https://github.com/janiapurva/scheduler/blob/master/docs/Booked%20View.png)
+!["Product detail Page"](https://github.com/janiapurva/scheduler/blob/master/docs/Booked%20View.png)
+!["Product cart"](https://github.com/janiapurva/scheduler/blob/master/docs/Booked%20View.png)
+!["Admin Category"](https://github.com/janiapurva/scheduler/blob/master/docs/Booked%20View.png)
+!["Admin Dashboard Page"](https://github.com/janiapurva/scheduler/blob/master/docs/Booked%20View.png)
+!["Admin Product Category"](https://github.com/janiapurva/scheduler/blob/master/docs/Booked%20View.png)
 
 ## Setup
 
@@ -13,6 +26,8 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 6. Sign up for a Stripe account
 7. Put Stripe (test) keys into appropriate .env vars
 8. Run `bin/rails s -b 0.0.0.0` to start the server
+
+
 
 ## Stripe Testing
 
